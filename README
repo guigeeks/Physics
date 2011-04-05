@@ -7,4 +7,16 @@ This project contains JAR copies of AndEngine and the physics extension to make 
 AndEngine: http://code.google.com/p/andengine
 Physics extension: http://code.google.com/p/andenginephysicsbox2dextension
 
+
+Getting started
+===============
+
+1. Install Eclipse
+2. Install Android plugin (http://developer.android.com/sdk/eclipse-adt.html#installing)
+3. Create virtual device (http://developer.android.com/guide/developing/tools/avd.html)
+4. Checkout code
+5. Import project to Eclipse
+6. Run!
+
+
 Happy coding!
