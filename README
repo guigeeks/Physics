@@ -1,0 +1,10 @@
+These are the examples from our presentation Physics in Android games. They will show how to get started with AndEngine and its physics extension.
+
+The examples don't extend each other, which means there is quite a lot of duplicated code. The different AndEngine features we use are only explained in the first example where they appear.
+
+This project contains JAR copies of AndEngine and the physics extension to make sure that everything just works. The latest versions can be found here:
+
+AndEngine: http://code.google.com/p/andengine
+Physics extension: http://code.google.com/p/andenginephysicsbox2dextension
+
+Happy coding!
