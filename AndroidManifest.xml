@@ -4,7 +4,6 @@
 	android:versionName="1.0">
 	<application android:icon="@drawable/icon" android:label="@string/app_name"
 		android:debuggable="true">
-
 		<activity android:label="Example 0" android:name=".Example0">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
@@ -29,7 +28,7 @@
 				<category android:name="android.intent.category.LAUNCHER" />
 			</intent-filter>
 		</activity>
-		<activity android:label="Example 4" android:name=".Example5">
+		<activity android:label="Example 4" android:name=".Example4">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.LAUNCHER" />
